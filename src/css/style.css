@@ -40,7 +40,7 @@ body {
 }
 
 .container--logo_logo--fixed{
-    width: 90%
+    width: 95%;
 }
 @media (max-width: 425px){
     .container--logo_logo--fixed{
@@ -51,7 +51,7 @@ body {
 .header--container_container--navegation {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
 }
 @media (max-width: 425px){
     .header--container_container--navegation{
@@ -112,6 +112,7 @@ body {
     font-family: 'NunitoSans Regular';
     margin:0 10px;
     text-align: center;
+    width: max-content;
 }
 
 #close-hamburguer, #menu-hamburguer{
@@ -314,7 +315,6 @@ a {
         width: 60vw; 
     }
 }
-
 .box--slideInfo_box--slideTxt{
     padding: 15px;
     min-height: 23vh;
@@ -367,7 +367,6 @@ a {
 	min-height: 90vh;
 	margin-bottom: 2rem;
 }
-
 .box--section_container--txtTitleSearchForPsychologist,
 .container-services__title-box,
 .container-links__title-box {
