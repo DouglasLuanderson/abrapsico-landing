@@ -5,4 +5,19 @@
 @font-face{
 	font-family: Nunito ExtraBold;
 	src:url(./Nunito/Nunito-ExtraBold.ttf);
+<<<<<<< HEAD
+=======
+}
+@font-face{
+	font-family: NunitoSans Bold;
+	src:url(./Nunito_Sans/NunitoSans-Bold.ttf)
+}
+@font-face{
+	font-family: NunitoSans SemiBold;
+	src:url(./Nunito_Sans/NunitoSans-SemiBold.ttf)
+}
+@font-face{
+	font-family: NunitoSans Black;
+	src:url(./Nunito_Sans/NunitoSans-Black.ttf)
+>>>>>>> e196af95a5fcc53e87a6a1b7c8be91aa3a97c011
 }
